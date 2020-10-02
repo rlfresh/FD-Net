@@ -4,6 +4,6 @@
 
 ### [ICMLA 2020 Published Paper: coming soon](https://www.icmla-conference.org/icmla20/)
 
-### [Supplementary Material for the ICMLA paper: Finite Difference Neural Networks: Fast Prediction of Partial Differential Equations](supp_icmla_fdnet.pdf)
+### [Supplementary Material for the ICMLA paper](supp_icmla_fdnet.pdf)
 
 ### Code will be available
