@@ -1,6 +1,6 @@
 # Finite Difference Neural Networks - Fast Prediction of Partial Differential Equations
 
-### [Arxiv Paper](https://arxiv.org/abs/2006.01892)
+### [Arxiv Paper: 2006.01892](https://arxiv.org/abs/2006.01892)
 
 ### [ICMLA 2020 Published Paper: coming soon](https://www.icmla-conference.org/icmla20/)
 
