@@ -4,6 +4,6 @@
 
 ### [ICMLA 2020 Published Paper: coming soon](https://www.icmla-conference.org/icmla20/)
 
-### [Supplementary Material for the ICMLA paper](supp_icmla_fdnet.pdf)
+### [Full paper (ICMLA paper + Supplementary Material](full_paper_icmla.pdf)
 
 ### Code will be available
